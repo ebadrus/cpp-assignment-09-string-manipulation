@@ -2,7 +2,7 @@
 template repository untuk pengumpulan tugas string manipulation C++
 
 ## Tutorial Pengerjaan
-Cooming Soon!
+[![Tonton di YouTube](https://img.youtube.com/vi/DTbDeQSKx8U/maxresdefault.jpg)](https://www.youtube.com/watch?v=DTbDeQSKx8U)
 
 ## Instruksi Tugas
 Buat contoh program yang mengimplementasikan :
